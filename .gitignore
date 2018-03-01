@@ -1,0 +1,9 @@
+.idea/
+bin/
+etc/
+include/
+lib/
+share
+.Python
+pip-selfcheck.json
+.DS_Store
